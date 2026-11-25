@@ -272,9 +272,7 @@ These recommendations identify areas for further investigation rather than estab
     nhs-ae-performance-analysis/
     |
     |-- data/
-    |   |-- raw/
-    |   |   |-- 12 monthly CSV files
-    |   |-- nhs_ae_attendances_2025_26.csv
+    |   |-- 12 monthly CSV files
     |
     |-- sql/
     |   |-- 01_data_import.sql
